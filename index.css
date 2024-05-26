@@ -1,0 +1,14 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    font-weight: 700;
+    background-color: lightblue;
+
+}
+h1{
+    font-size:70px;
+    background-color:chocolate;
+}
+ul{
+    font-size: 25px;
+}

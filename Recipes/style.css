@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:lightgreen;
+}
+.title{
+    font-size: 50px;
+    color:black;
+    background-color:lightblue;
+    font-weight: 1000;
+}
+.des{
+    background-color: red;
+    font-weight: 900;
+}
+.des-item{
+    font-weight: 600;
+}
+.ing{
+    background-color: chocolate;
+    font-weight: 900;
+}
+.list{
+    font-size: large;
+    font-weight: 700;
+}
+.steps{
+    background-color: coral;
+    font-weight: 900;
+}
+.steps-list{
+    font-weight: 700;
+    font-size: large;
+
+}
+
