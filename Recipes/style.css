@@ -1,16 +1,45 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color:lightgreen;
+    text-align: center;
+    
 }
+
 .title{
     font-size: 50px;
     color:black;
     background-color:lightblue;
     font-weight: 1000;
+    padding: 10px;
+    border:5px solid black ;
+    
+    border-left-width:7px;
+    border-bottom-width:10px;
+    border-right-width:18px;
+    border-top-width:5px;
+   
 }
 .des{
     background-color: red;
     font-weight: 900;
+    border:5px solid black ;
+    padding: 10px;
+    font-size: 30px;
+    border-left-width:70px;
+    border-bottom-width:5px;
+    border-right-width:8px;
+    border-top-width:5px;
+    
+    
+}
+p{
+    font-size:20px
+}
+img{
+    width:800px;
+    height:auto;
+  
+     
 }
 .des-item{
     font-weight: 600;
@@ -18,18 +47,41 @@ body{
 .ing{
     background-color: chocolate;
     font-weight: 900;
+    border:5px solid black ;
+    padding: 10px;
+    font-size: 30px;
+    border-left-width:7px;
+    border-bottom-width:10px;
+    border-right-width:70px;
+    border-top-width:5px;
+    
 }
 .list{
-    font-size: large;
+    font-size: 18px;
     font-weight: 700;
+    text-align: left;
+    
+}
+li{
+    padding: 3px;
 }
 .steps{
     background-color: coral;
     font-weight: 900;
+    border:5px solid black ;
+    padding: 10px;
+    font-size: 30px;
+    border-left-width:70px;
+    border-bottom-width:10px;
+    border-right-width:18px;
+    border-top-width:5px;
 }
 .steps-list{
     font-weight: 700;
     font-size: large;
 
+}
+.steps-list li{
+    padding: 3px;
 }
 
